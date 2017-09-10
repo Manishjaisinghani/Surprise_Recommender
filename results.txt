@@ -1,0 +1,79 @@
+manish@manishs-MacBook-Pro:~/Documents/UniversityofMissouri/Spring2017/Spatial/Homeworks/HW4 λ python3 rest_Recommend_surprise.py 
+/usr/local/lib/python3.6/site-packages/IPython/html.py:14: ShimWarning: The `IPython.html` package has been deprecated. You should import from `notebook` instead. `IPython.html.widgets` has moved to `ipywidgets`.
+  "`IPython.html.widgets` has moved to `ipywidgets`.", ShimWarning)
+########## Iteration 1 ##########
+########## SVD Algorithm ##########
+RMSE: 0.9409
+FCP:  0.6993
+MAE:  0.7423
+########## PMF Algorithm ##########
+RMSE: 0.9503
+FCP:  0.6988
+MAE:  0.7510
+########## NMF Algorithm ##########
+RMSE: 0.9750
+FCP:  0.6849
+MAE:  0.7649
+########## User based Collaborative Filtering Algorithm ##########
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9880
+FCP:  0.7126
+MAE:  0.7804
+########## Item based Collaborative Filtering Algorithm ##########
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9814
+FCP:  0.6657
+MAE:  0.7782
+########## Iteration 2 ##########
+########## SVD Algorithm ##########
+RMSE: 0.9427
+FCP:  0.7005
+MAE:  0.7426
+########## PMF Algorithm ##########
+RMSE: 0.9500
+FCP:  0.7008
+MAE:  0.7502
+########## NMF Algorithm ##########
+RMSE: 0.9708
+FCP:  0.6909
+MAE:  0.7632
+########## User based Collaborative Filtering Algorithm ##########
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9849
+FCP:  0.7116
+MAE:  0.7774
+########## Item based Collaborative Filtering Algorithm ##########
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9880
+FCP:  0.6652
+MAE:  0.7819
+########## Iteration 3 ##########
+########## SVD Algorithm ##########
+RMSE: 0.9440
+FCP:  0.7043
+MAE:  0.7452
+########## PMF Algorithm ##########
+RMSE: 0.9522
+FCP:  0.7043
+MAE:  0.7531
+########## NMF Algorithm ##########
+RMSE: 0.9739
+FCP:  0.6914
+MAE:  0.7644
+########## User based Collaborative Filtering Algorithm ##########
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9873
+FCP:  0.7128
+MAE:  0.7815
+########## Item based Collaborative Filtering Algorithm ##########
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9851
+FCP:  0.6659
+MAE:  0.7813
+
